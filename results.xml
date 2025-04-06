@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1730395473" />
+    <testcase name="test_relu" classname="tb.test_relu" file="/drive2/chenyu/Homework3/Name_SID/tb/test_relu.py" lineno="6" time="0.0006268024444580078" sim_time_ns="30.001" ratio_time="47863.56572993534" />
+  </testsuite>
+</testsuites>
