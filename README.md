@@ -1,10 +1,6 @@
 # Report of HW3
 
-**Name:**Chenyu Zhang
 
-**SID:**50018564
-
-**email:**czhang539@connect.hkust-gz.edu.cn
 
 [TOC]
 
